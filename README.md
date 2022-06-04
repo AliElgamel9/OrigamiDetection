@@ -24,8 +24,11 @@ You can find the project in colab. The code is driven from YOLOv5 tutorials, so 
 ## Train Results
 
 This results based on training on the v20 of the dataset.
+
+results.png
 ![results.png](https://github.com/AliElgamel9/OrigamiDetection/blob/master/train/yolov5s_results/results.png)
 
+PR-curve.png
 ![PR-curve.png](https://github.com/AliElgamel9/OrigamiDetection/blob/master/train/yolov5s_results/PR_curve.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
