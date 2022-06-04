@@ -42,13 +42,13 @@ Precision & Recall curve
 some images from detection results
 
 - Image 1
-![ships.jpg](https://github.com/AliElgamel9/OrigamiDetection/blob/master/detect/exp/ship1_jpg.rf.c4b7cd4293bddf8d5e020dd2c973a884.jpg)
+- ![ships.jpg](https://github.com/AliElgamel9/OrigamiDetection/blob/master/detect/exp/ship1_jpg.rf.c4b7cd4293bddf8d5e020dd2c973a884.jpg)
 
 - Image 2
-![box.jpg](https://github.com/AliElgamel9/OrigamiDetection/blob/master/detect/exp/box1_jpg.rf.1f299105d55501c2339579662f23a7ef.jpg)
+- ![box.jpg](https://github.com/AliElgamel9/OrigamiDetection/blob/master/detect/exp/box1_jpg.rf.1f299105d55501c2339579662f23a7ef.jpg)
 
 - Image 3
-![plane.jpg](https://github.com/AliElgamel9/OrigamiDetection/blob/master/detect/exp/plan1_jpg.rf.c7fbe647cae8706a185281ba94c93c6e.jpg)
+- ![plane.jpg](https://github.com/AliElgamel9/OrigamiDetection/blob/master/detect/exp/plan1_jpg.rf.c7fbe647cae8706a185281ba94c93c6e.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Questions
