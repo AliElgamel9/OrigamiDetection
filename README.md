@@ -5,11 +5,11 @@ I am testing my knowledge in object detection field by using YOLOv5 and custom d
 The idea behind this project is to understand YOLOv5 (Object Detection ) and how to get good results with less efforts as possible as it could be.
 
 ## Dataset Origami Information
-The dataset i have made from scratch. Taking pictures for objects then labeling them on roboflow website.
-The all images are in size 416X416.
-The dataset contains ~950 image for training, ~100 image for validation, and ~30 image for testing.
-The dataset contains 5 classes {Box, Plane, Flower, Shipe, Tea-Plate}
-You can find the dataset in the Roboflow website. [Data Link In Roboflow](https://universe.roboflow.com/alielgamal9/origami)
+The dataset i have made from scratch. Taking pictures for objects then labeling them on roboflow website.<br/>
+The all images are in size 416X416.<br/>
+The dataset contains ~950 image for training, ~100 image for validation, and ~30 image for testing.<br/>
+The dataset contains 5 classes {Box, Plane, Flower, Shipe, Tea-Plate}<br/>
+You can find the dataset in the Roboflow website. [Data Link In Roboflow](https://universe.roboflow.com/alielgamal9/origami)<br/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
