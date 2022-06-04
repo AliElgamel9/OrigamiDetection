@@ -69,6 +69,7 @@ I will list all questions i have until now to find their answers later. The ques
 8. What if we get images for object in different angles in the same background, then copy the object and put it in different backgrounds to increase our training images without taking more images (this process could be automated which would saving a huge time in collecting images and labeling them). Is that a correct theory or not? and why?<br/>&ensp;A: not yet<br/><br/>
 9. Why not to model the object in any 3d design program and take the pictures (this process could be automated). the needed time would be in modeling or getting the appropriate scene and model the object only. The automation part could have huge features as scalling the object in different sizes without any extra effort from human side. Is that a correct theory or not? and why?<br/>&ensp;A: not yet<br/><br/>
 10. Is the location of the object in the image make a different in the accuracy?Is the object should appear in different locations in all images?why<br/>&ensp;A: not yet<br/><br/>
+
 I hope i can find the answers for those questions and understand them clearly.<br/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
