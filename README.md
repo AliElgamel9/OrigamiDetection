@@ -8,6 +8,7 @@ The dataset i have made from scratch. Taking pictures for objects then labeling 
 
 ## Dataset Origami Information
 
+The all images are in size 416X416.
 The dataset contains ~950 image for training, ~100 image for validation, and ~30 image for testing.
 The dataset contains 5 classes {Box, Plane, Flower, Shipe, Tea-Plate}
 You can find the dataset in the Roboflow website. [Data Link In Roboflow](https://universe.roboflow.com/alielgamal9/origami)
@@ -24,8 +25,12 @@ You can find the project in colab. The code is driven from YOLOv5 tutorials, so 
 ## Train Results
 
 This results based on training on the v20 of the dataset.
+Train used Parameters: 
+- img 416
+- batch 16
+- epochs 120
 
-results curves
+Results curves
 ![results.png](https://github.com/AliElgamel9/OrigamiDetection/blob/master/train/yolov5s_results/results.png)
 
 Precision & Recall curve
@@ -33,6 +38,19 @@ Precision & Recall curve
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Detection Results
+some images from detection results
+
+Image 1
+![ships.jpg](https://github.com/AliElgamel9/OrigamiDetection/blob/master/detect/exp/ship1_jpg.rf.c4b7cd4293bddf8d5e020dd2c973a884.jpg)
+
+Image 2
+![box.jpg](https://github.com/AliElgamel9/OrigamiDetection/blob/master/detect/exp/box1_jpg.rf.1f299105d55501c2339579662f23a7ef.jpg)
+
+Image 3
+![plane.jpg](https://github.com/AliElgamel9/OrigamiDetection/blob/master/detect/exp/plan1_jpg.rf.c7fbe647cae8706a185281ba94c93c6e.jpg)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Questions
 
 The most benefit from this experience is that i got a lot of questions that i need their answers, most of them i could not find their answers by easy searching.
