@@ -25,10 +25,10 @@ You can find the project in colab. The code is driven from YOLOv5 tutorials, so 
 
 This results based on training on the v20 of the dataset.
 
-results.png
+results curves
 ![results.png](https://github.com/AliElgamel9/OrigamiDetection/blob/master/train/yolov5s_results/results.png)
 
-PR-curve.png
+Precision & Recall curve
 ![PR-curve.png](https://github.com/AliElgamel9/OrigamiDetection/blob/master/train/yolov5s_results/PR_curve.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
