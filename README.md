@@ -1,5 +1,5 @@
 # OrigamiDetection
-Origami Object Detection using YOLOv5
+Origami Object Detection using YOLOv5 and Pytorch.
 
 I am testing my knowledge in object detection field by using YOLOv5 and custom dataset.
 The idea behind this project is:
@@ -7,6 +7,12 @@ The idea behind this project is:
 - How to estimate YOLOv5 parameters?
 - How to get good results with less efforts as possible as it could be?
 - Understanding each process of Object detection? and how much each process impact on the whole process?
+
+## Reference
+
+[ultralytics yolov5 in github](https://github.com/ultralytics/yolov5)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Dataset Origami Information
 The dataset i have made from scratch. Taking pictures for objects then labeling them on roboflow website.<br/>
